@@ -2,3 +2,5 @@
 *.png
 .env
 *.zip 
+
+__pycache__/
